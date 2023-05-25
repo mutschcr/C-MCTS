@@ -45,3 +45,13 @@ Replace the placeholders with the desired values for the parameters:
 - `<epsilon>`: The termination criterion for the training loop.
 - `<cost_constraint>`: To limit the costs incurred by the agent in an episode.
 - `<maximum_training_loops>`: The maximum number of training loops (upper limit) to train the safety critic.
+
+
+## Copyright 
+
+Copyright (C) 2023
+
+Fraunhofer Institute for Integrated Circuits IIS
+<br>Nordostpark 84, 90411 Nürnberg
+
+All rights reserved.

@@ -2,6 +2,18 @@
 
 This repository contains the implementation of Constrained Monte Carlo Tree Search (C-MCTS). The MCTS algorithm has been implemented using Python, while the environment is a C++ implementation integrated into the Python code using pybind.
 
+## Reference
+
+Please cite our work if you find our work useful for your research:
+```
+@article{parthasarathy2023,  
+    title={C-MCTS: Safe Planning with Monte Carlo Tree Search},  
+    author={Parthasaraty, Dinesh and Kontes, Georgios and Plinge, Axel and Mutschler, Christopher},  
+    journal={arXiv preprint arXiv:XXXX.XXXXX},  
+    year={2023}  
+}
+```
+
 ## Installation
 
 To set up a conda environment, follow these steps:

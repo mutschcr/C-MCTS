@@ -1,4 +1,5 @@
-/* -------------------------------------------------------------------------------------------
+## License
+
 Software Copyright License for Academic Use of the Fraunhofer Software, Version 1.0
 © Copyright (Year) Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
 
@@ -39,5 +40,5 @@ of the possibility of such damage.
 
 Fraunhofer-Institut für Integrierte Schaltungen IIS
 Nordostpark 84, 90411 Nürnberg
-maximilian.stahlke@iis.fraunhofer.de
-------------------------------------------------------------------------------------------- */
+chrisotpher.mutschler@iis.fraunhofer.de
+
